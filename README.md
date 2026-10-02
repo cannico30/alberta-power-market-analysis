@@ -67,24 +67,25 @@ Large hourly ramps were not required for extreme prices, suggesting that the **l
 ## Figures
 
 ### Pool Price vs Net Load
+
 Higher net load was strongly associated with higher Alberta pool prices.
 
-![Pool Price vs Net Load](figures/01_pool_price_vs_net_load.png)
+![Pool Price vs Net Load](01_pool_price_vs_net_load.png)
 
 ### High-Price Hours by Time of Day
 High-price events were concentrated in the late afternoon and evening.
 
-![High Price Frequency](figures/02_high_price_frequency_by_hour.png)
+![High-Price Frequency by Hour](02_high_price_frequency_by_hour.png)
 
 ### Market Conditions During High-Price Hours
 High-price periods were associated with higher net load, lower wind generation, and greater gas and hydro generation.
 
-![Normal vs High Price Conditions](figures/03_normal_vs_high_price_conditions.png)
+![Normal vs High-Price Conditions](03_normal_vs_high_price_conditions.png)
 
 ### January vs July
 Winter and summer extreme-price periods showed different seasonal conditions but a common pattern of high net load and greater reliance on dispatchable generation.
 
-![January vs July](figures/04_january_vs_july_comparison.png)
+![January vs July Comparison](04_january_vs_july_comparison.png)
 
 ## Interpretation
 
